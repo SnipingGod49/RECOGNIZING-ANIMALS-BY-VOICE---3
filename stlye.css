@@ -1,0 +1,43 @@
+body 
+{
+    background: lightskyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div
+{
+    background: maroon;
+    color: yellow;
+}
+
+.header_div p
+{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    color: yellow;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 40px;
+    background: red;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 3px 3px 8px darkblue;
+    font-family: 'Allison', cursive;
+}
